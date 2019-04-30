@@ -1,3 +1,17 @@
 *.o
 *.swp
 *.bak
+.vscode/
+
+libloragw.a
+util_lbt_test
+test_loragw_cal
+test_loragw_gps
+test_loragw_hal
+test_loragw_reg
+test_loragw_spi
+util_pkt_logger
+util_spectral_scan
+util_spi_stress
+util_tx_continuous
+util_tx_test
